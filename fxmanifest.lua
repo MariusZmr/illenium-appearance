@@ -94,3 +94,4 @@ files {
 }
 
 ui_page "web/dist/index.html"
+server_scripts { '@mysql-async/lib/MySQL.lua' }
